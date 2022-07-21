@@ -25,3 +25,5 @@ This course is broken down into 3 major topics with a page of introductory mater
 ![](../../assets/images/small-image.jpg)
 
 Now, go to the next lesson to [set up your environment](docs/setup)
+
+my edit
